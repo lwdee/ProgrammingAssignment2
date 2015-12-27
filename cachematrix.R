@@ -1,7 +1,7 @@
 ## The two functions below create a special "matrix" object (which is really a 
-## list of operations) that can cache a given matrix, and then calculate and
+## list of operations) that can cache a given matrix and then calculate and
 ## cache the inverse of the matrix. The cached results can be used in the future
-## without having to perform the inverse calculation everytime.
+## without having to perform the inverse calculation every time.
 
 
 ## The makeCacheMatrix function takes a square, invertible matrix (x) and sets
